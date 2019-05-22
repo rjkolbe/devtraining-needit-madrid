@@ -4,6 +4,25 @@
             <dependent_value/>
             <element>u_request_type</element>
             <hint/>
+            <inactive>false</inactive>
+            <label>Legal</label>
+            <language>en</language>
+            <name>x_58872_needit_needit</name>
+            <sequence/>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-05-22 20:07:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>19e1168adba13300b8d8da75ca96194c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-05-22 20:07:47</sys_updated_on>
+            <value>legal</value>
+        </sys_choice>
+        <sys_choice action="INSERT_OR_UPDATE">
+            <dependent_value/>
+            <element>u_request_type</element>
+            <hint/>
             <inactive>true</inactive>
             <label>Developer Enablement</label>
             <language>en</language>
@@ -82,7 +101,7 @@
             <sys_class_name>sys_choice_set</sys_class_name>
             <sys_created_by>admin</sys_created_by>
             <sys_created_on>2017-01-26 19:28:14</sys_created_on>
-            <sys_id>087049e5dbaf5b009d7831d0ef961928</sys_id>
+            <sys_id>225999c2db213300b8d8da75ca9619df</sys_id>
             <sys_mod_count>3</sys_mod_count>
             <sys_name>u_request_type</sys_name>
             <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
